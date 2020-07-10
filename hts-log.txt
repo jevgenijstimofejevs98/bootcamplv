@@ -1,0 +1,74 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 Jul 2020 21:45:53 at https://bootcamp.lv/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" https://bootcamp.lv/ -O1 "C:\drage\bootcampjs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:46:06	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://bootcamp.lv/)
+21:49:05	Warning: 	File not parsed, looks like binary: https://bootcamp.lv/wp-content/themes/accenture-bootcamp/styles/fonts/Graphik-Regular.woff2
+21:49:05	Warning: 	File not parsed, looks like binary: https://bootcamp.lv/wp-content/themes/accenture-bootcamp/styles/fonts/Graphik-Bold.woff2
+21:49:05	Warning: 	File not parsed, looks like binary: https://bootcamp.lv/wp-content/themes/accenture-bootcamp/styles/fonts/Graphik-Black.woff2
+21:49:05	Error: 	"Not Found" (404) at link https://bootcamp.lv/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:49:10	Warning: 	Moved Permanently for https://bootcamp.lv/?p=73
+21:49:10	Warning: 	File has moved from https://bootcamp.lv/?p=73 to https://bootcamp.lv/?page_id=73
+21:49:10	Warning: 	Moved Permanently for https://bootcamp.lv/?p=334
+21:49:10	Warning: 	File has moved from https://bootcamp.lv/?p=334 to https://bootcamp.lv/?page_id=334
+21:49:10	Warning: 	Moved Permanently for https://bootcamp.lv/?p=345
+21:49:10	Warning: 	File has moved from https://bootcamp.lv/?p=345 to https://bootcamp.lv/?page_id=345
+21:49:10	Warning: 	Moved Permanently for https://bootcamp.lv/?p=349
+21:49:10	Warning: 	File has moved from https://bootcamp.lv/?p=349 to https://bootcamp.lv/?page_id=349
+21:49:10	Warning: 	Moved Permanently for https://bootcamp.lv/?p=353
+21:49:10	Warning: 	File has moved from https://bootcamp.lv/?p=353 to https://bootcamp.lv/?page_id=353
+21:49:10	Warning: 	Moved Permanently for https://bootcamp.lv/?p=355
+21:49:10	Warning: 	File has moved from https://bootcamp.lv/?p=355 to https://bootcamp.lv/?page_id=355
+21:49:10	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2019/01/liene.jpg (from https://bootcamp.lv/?page_id=355)
+21:49:10	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2019/01/liva.jpg (from https://bootcamp.lv/?page_id=355)
+21:49:10	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2019/01/kirils.jpg (from https://bootcamp.lv/?page_id=355)
+21:49:16	Warning: 	Moved Permanently for https://bootcamp.lv/?p=357
+21:49:16	Warning: 	File has moved from https://bootcamp.lv/?p=357 to https://bootcamp.lv/?page_id=357
+21:49:31	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2018/12/kalns.jpg (from https://bootcamp.lv/?page_id=357)
+21:49:31	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2018/12/ekas.jpg (from https://bootcamp.lv/?page_id=357)
+21:49:31	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2019/01/bootcampweb.jpg (from https://bootcamp.lv/?page_id=357)
+21:49:31	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2019/01/Bootcampweb2.jpg (from https://bootcamp.lv/?page_id=357)
+21:49:52	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2019/01/Bootcampweb3.jpg (from https://bootcamp.lv/?page_id=357)
+21:49:52	Warning: 	Moved Permanently for https://bootcamp.lv/?p=396
+21:49:52	Warning: 	File has moved from https://bootcamp.lv/?p=396 to https://bootcamp.lv/?course=new-robotics-and-virtual-agents-bootcamp
+21:49:53	Warning: 	Moved Permanently for https://bootcamp.lv/?p=154
+21:49:53	Warning: 	File has moved from https://bootcamp.lv/?p=154 to https://bootcamp.lv/?course=microsoft-net
+21:49:53	Warning: 	Moved Permanently for https://bootcamp.lv/?p=157
+21:49:53	Warning: 	File has moved from https://bootcamp.lv/?p=157 to https://bootcamp.lv/?course=sdx
+21:49:53	Warning: 	Moved Permanently for https://bootcamp.lv/?p=261
+21:49:53	Warning: 	File has moved from https://bootcamp.lv/?p=261 to https://bootcamp.lv/?course=big-data-august
+21:49:53	Warning: 	Moved Permanently for https://bootcamp.lv/?p=431
+21:49:53	Warning: 	File has moved from https://bootcamp.lv/?p=431 to https://bootcamp.lv/?course=java-software-engineering-august-2
+21:49:53	Warning: 	Moved Permanently for https://bootcamp.lv/?p=283
+21:49:53	Warning: 	File has moved from https://bootcamp.lv/?p=283 to https://bootcamp.lv/?course=devops-cloud-engineering-bootcamp
+21:49:53	Warning: 	Moved Permanently for https://bootcamp.lv/?p=409
+21:49:53	Warning: 	File has moved from https://bootcamp.lv/?p=409 to https://bootcamp.lv/?course=pm-assistant-3
+21:49:53	Warning: 	Moved Permanently for https://bootcamp.lv/?p=420
+21:49:53	Warning: 	File has moved from https://bootcamp.lv/?p=420 to https://bootcamp.lv/?course=data-management-bootcamp
+21:49:53	Warning: 	Moved Permanently for https://bootcamp.lv/?p=432
+21:49:53	Warning: 	File has moved from https://bootcamp.lv/?p=432 to https://bootcamp.lv/?course=sap-business-data-management-and-migration-july
+21:49:53	Warning: 	Moved Permanently for https://bootcamp.lv/?p=439
+21:49:53	Warning: 	File has moved from https://bootcamp.lv/?p=439 to https://bootcamp.lv/?course=oracle-financials-consultant
+21:49:53	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2019/01/liene.jpg (from https://bootcamp.lv/?page_id=355)
+21:49:53	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2019/01/liva.jpg (from https://bootcamp.lv/?page_id=355)
+21:49:55	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2019/01/kirils.jpg (from https://bootcamp.lv/?page_id=355)
+21:50:13	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2018/12/kalns.jpg (from https://bootcamp.lv/?page_id=357)
+21:50:14	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2018/12/ekas.jpg (from https://bootcamp.lv/?page_id=357)
+21:50:14	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2019/01/bootcampweb.jpg (from https://bootcamp.lv/?page_id=357)
+21:50:16	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2019/01/Bootcampweb2.jpg (from https://bootcamp.lv/?page_id=357)
+21:50:35	Warning: 	Retry after error -4 (Connect Error) at link 159.89.25.162/wp-content/uploads/2019/01/Bootcampweb3.jpg (from https://bootcamp.lv/?page_id=357)
+21:50:35	Error: 	"Connect Error" (-4) after 2 retries at link 159.89.25.162/wp-content/uploads/2019/01/liene.jpg (from https://bootcamp.lv/?page_id=355)
+21:50:35	Error: 	"Connect Error" (-4) after 2 retries at link 159.89.25.162/wp-content/uploads/2019/01/liva.jpg (from https://bootcamp.lv/?page_id=355)
+21:50:35	Error: 	"Connect Error" (-4) after 2 retries at link 159.89.25.162/wp-content/uploads/2019/01/kirils.jpg (from https://bootcamp.lv/?page_id=355)
+21:50:35	Error: 	"Connect Error" (-4) after 2 retries at link 159.89.25.162/wp-content/uploads/2018/12/kalns.jpg (from https://bootcamp.lv/?page_id=357)
+21:50:35	Error: 	"Connect Error" (-4) after 2 retries at link 159.89.25.162/wp-content/uploads/2018/12/ekas.jpg (from https://bootcamp.lv/?page_id=357)
+21:50:35	Error: 	"Connect Error" (-4) after 2 retries at link 159.89.25.162/wp-content/uploads/2019/01/bootcampweb.jpg (from https://bootcamp.lv/?page_id=357)
+21:50:37	Error: 	"Connect Error" (-4) after 2 retries at link 159.89.25.162/wp-content/uploads/2019/01/Bootcampweb2.jpg (from https://bootcamp.lv/?page_id=357)
+21:50:56	Error: 	"Connect Error" (-4) after 2 retries at link 159.89.25.162/wp-content/uploads/2019/01/Bootcampweb3.jpg (from https://bootcamp.lv/?page_id=357)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 3 seconds : 145 links scanned, 101 files written (3748639 bytes overall) [2664155 bytes received at 8792 bytes/sec], 1593579 bytes transferred using HTTP compression in 59 files, ratio 22%, 3.1 requests per connection
+(10 errors, 53 warnings, 0 messages)
